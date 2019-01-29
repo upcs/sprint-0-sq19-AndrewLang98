@@ -1,4 +1,4 @@
-const sum = require('./js/functions.js');
+const addition = require('./js/functions');
 
 //First test that is correct
 test('adds 3 + 4 to equal 7', () => {
